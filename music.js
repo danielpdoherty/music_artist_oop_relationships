@@ -1,4 +1,4 @@
-// De// Define the Artist constructor function here, with a 'name' property that can be set at instantiation,
+//Define the Artist constructor function here, with a 'name' property that can be set at instantiation,
 // and a 'songs' property that is an empty array to start
 function Artist(name) {
 	this.name = name;
